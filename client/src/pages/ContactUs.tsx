@@ -10,7 +10,7 @@ export default function ContactUs() {
     >
       <p>
         Whether you have a specific design in mind or just want to explore what is possible with
-        custom resin art, we are here to help. The best way to get started is to share your idea
+        custom resin art, we are here to help. A simple way to get started is to share your idea
         with us, and we will respond with a personalized quotation.
       </p>
 

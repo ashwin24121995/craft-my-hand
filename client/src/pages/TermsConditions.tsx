@@ -56,8 +56,8 @@ export default function TermsConditions() {
 
       <h2>Intellectual Property</h2>
       <p>
-        All content on this website, including text, images, and design, is the property of Resin Art
-        by Tanmeet and is protected by applicable intellectual property laws. You may not reproduce,
+        All content on this website, including text, images, and design, is the property of Craft My Hand
+        and is protected by applicable intellectual property laws. You may not reproduce,
         distribute, or use any content from this website without our written permission.
       </p>
 
