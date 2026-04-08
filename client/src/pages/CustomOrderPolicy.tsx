@@ -9,7 +9,7 @@ export default function CustomOrderPolicy() {
     >
       <h2>Understanding Custom Orders</h2>
       <p>
-        Resin Art by Tanmeet operates as a custom handmade art business. This means that every piece
+        Craft My Hand operates as a custom handmade art business. This means that every piece
         we create is made from scratch based on your specific requirements. We do not maintain an
         inventory of ready-made products. When you place an order with us, you are commissioning a
         unique piece of art that is crafted specifically for you.
@@ -18,7 +18,7 @@ export default function CustomOrderPolicy() {
       <h2>How to Place a Custom Order</h2>
       <p>To place a custom order, follow these steps:</p>
       <ol>
-        <li><strong>Contact Us:</strong> Reach out by email at hello@resinartbytanmeet.com or call us at +91 98765 43210.</li>
+        <li><strong>Contact Us:</strong> Reach out by email at hello@craftmyhand.site or call us at +91 98765 43210.</li>
         <li><strong>Share Your Requirements:</strong> Tell us what you are looking for — the type of piece (coasters, wall art, tray, etc.), preferred colors, approximate size, design style, and any reference images you have.</li>
         <li><strong>Receive a Quotation:</strong> We will review your requirements and provide a detailed quotation including the price, estimated timeline, and any other relevant details.</li>
         <li><strong>Confirm Your Order:</strong> Once you approve the quotation and complete the agreed-upon advance payment, production begins.</li>
@@ -80,8 +80,9 @@ export default function CustomOrderPolicy() {
         If you have any questions about our custom order process, please contact us:
       </p>
       <ul>
-        <li><strong>Email:</strong> hello@resinartbytanmeet.com</li>
+        <li><strong>Email:</strong> hello@craftmyhand.site</li>
         <li><strong>Phone:</strong> +91 98765 43210</li>
+        <li><strong>Address:</strong> Shop No. 01, Azaadi Rte, 10D, Sector 10, Chandigarh, 160010, India</li>
       </ul>
     </PageLayout>
   );

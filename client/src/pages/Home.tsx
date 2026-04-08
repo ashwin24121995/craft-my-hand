@@ -98,7 +98,7 @@ export default function Home() {
                   Call for a Quote
                 </a>
                 <a
-                  href="mailto:hello@resinartbytanmeet.com"
+                  href="mailto:hello@craftmyhand.site"
                   className="inline-flex items-center justify-center gap-2 px-7 py-3.5 border border-warm-white/30 text-warm-white font-medium rounded-full hover:bg-warm-white/10 transition-all duration-300"
                   style={{ fontFamily: "var(--font-body)" }}
                 >
@@ -127,7 +127,7 @@ export default function Home() {
                 <div className="aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl shadow-charcoal/10">
                   <img
                     src={ARTISAN_IMG}
-                    alt="Tanmeet crafting resin art in her studio"
+                    alt="Craft My Hand studio — handmade resin art"
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -397,7 +397,7 @@ export default function Home() {
                 What Sets Our Work Apart
               </h2>
               <p className="text-warm-white/60 leading-relaxed" style={{ fontFamily: "var(--font-body)" }}>
-                When you choose Resin Art by Tanmeet, you are choosing a personal, hands-on approach
+                When you choose Craft My Hand, you are choosing a personal, hands-on approach
                 to creating something meaningful. Here is what you can expect.
               </p>
             </div>
@@ -491,7 +491,7 @@ export default function Home() {
               <div className="space-y-5">
                 {/* Email Card */}
                 <a
-                  href="mailto:hello@resinartbytanmeet.com"
+                  href="mailto:hello@craftmyhand.site"
                   className="group flex items-center gap-5 p-6 bg-warm-white rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 border border-border/50"
                 >
                   <div className="w-14 h-14 rounded-xl bg-gold/10 flex items-center justify-center shrink-0 group-hover:bg-gold/20 transition-colors">
@@ -502,7 +502,7 @@ export default function Home() {
                       Email Us
                     </h3>
                     <p className="text-sm text-charcoal-light" style={{ fontFamily: "var(--font-body)" }}>
-                      hello@resinartbytanmeet.com
+                      hello@craftmyhand.site
                     </p>
                     <p className="text-xs text-charcoal-light/60 mt-1" style={{ fontFamily: "var(--font-body)" }}>
                       Share your requirements and any reference images
@@ -667,7 +667,7 @@ export default function Home() {
                   Call Now
                 </a>
                 <a
-                  href="mailto:hello@resinartbytanmeet.com"
+                  href="mailto:hello@craftmyhand.site"
                   className="inline-flex items-center justify-center gap-2 px-7 py-3.5 border border-warm-white/30 text-warm-white font-medium rounded-full hover:bg-warm-white/10 transition-all duration-300"
                   style={{ fontFamily: "var(--font-body)" }}
                 >

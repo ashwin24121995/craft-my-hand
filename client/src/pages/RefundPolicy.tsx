@@ -9,7 +9,7 @@ export default function RefundPolicy() {
     >
       <h2>Important Note About Custom Orders</h2>
       <p>
-        All products created by Resin Art by Tanmeet are custom-made to order based on your specific
+        All products created by Craft My Hand are custom-made to order based on your specific
         requirements. Unlike ready-made products, custom handmade pieces are created exclusively for
         you and cannot be resold or repurposed for another client. This is an important factor in our
         refund and cancellation policy.
@@ -58,8 +58,9 @@ export default function RefundPolicy() {
         To request a cancellation or discuss a refund, please contact us directly:
       </p>
       <ul>
-        <li><strong>Email:</strong> hello@resinartbytanmeet.com</li>
+        <li><strong>Email:</strong> hello@craftmyhand.site</li>
         <li><strong>Phone:</strong> +91 98765 43210</li>
+        <li><strong>Address:</strong> Shop No. 01, Azaadi Rte, 10D, Sector 10, Chandigarh, 160010, India</li>
       </ul>
       <p>
         Please include your order details and the reason for your request. We aim to respond to all

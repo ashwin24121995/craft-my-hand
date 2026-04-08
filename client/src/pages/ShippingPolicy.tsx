@@ -67,8 +67,9 @@ export default function ShippingPolicy() {
         For any shipping or delivery-related questions, please reach out to us:
       </p>
       <ul>
-        <li><strong>Email:</strong> hello@resinartbytanmeet.com</li>
+        <li><strong>Email:</strong> hello@craftmyhand.site</li>
         <li><strong>Phone:</strong> +91 98765 43210</li>
+        <li><strong>Address:</strong> Shop No. 01, Azaadi Rte, 10D, Sector 10, Chandigarh, 160010, India</li>
       </ul>
     </PageLayout>
   );

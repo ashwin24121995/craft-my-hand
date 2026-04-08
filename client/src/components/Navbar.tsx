@@ -55,12 +55,7 @@ export default function Navbar() {
               className="text-xl lg:text-2xl font-semibold tracking-tight text-charcoal"
               style={{ fontFamily: "var(--font-display)" }}
             >
-              Resin Art
-            </span>
-            <span className="text-gold text-sm font-light tracking-widest uppercase"
-              style={{ fontFamily: "var(--font-body)" }}
-            >
-              by Tanmeet
+              Craft My Hand
             </span>
           </Link>
 
@@ -120,11 +115,11 @@ export default function Navbar() {
               ))}
               <div className="pt-4 border-t border-border space-y-3">
                 <a
-                  href="mailto:hello@resinartbytanmeet.com"
+                  href="mailto:hello@craftmyhand.site"
                   className="flex items-center gap-2 text-sm text-charcoal-light"
                 >
                   <Mail className="w-4 h-4 text-gold" />
-                  hello@resinartbytanmeet.com
+                  hello@craftmyhand.site
                 </a>
                 <a
                   href="tel:+919876543210"

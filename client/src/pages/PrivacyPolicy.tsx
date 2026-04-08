@@ -9,7 +9,7 @@ export default function PrivacyPolicy() {
     >
       <h2>Introduction</h2>
       <p>
-        Resin Art by Tanmeet ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy
+        Craft My Hand ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy
         explains how we collect, use, and safeguard your personal information when you visit our website or
         contact us regarding custom resin art orders.
       </p>
@@ -72,8 +72,9 @@ export default function PrivacyPolicy() {
         If you have any questions about this Privacy Policy or how we handle your data, please contact us:
       </p>
       <ul>
-        <li><strong>Email:</strong> hello@resinartbytanmeet.com</li>
+        <li><strong>Email:</strong> hello@craftmyhand.site</li>
         <li><strong>Phone:</strong> +91 98765 43210</li>
+        <li><strong>Address:</strong> Shop No. 01, Azaadi Rte, 10D, Sector 10, Chandigarh, 160010, India</li>
       </ul>
     </PageLayout>
   );

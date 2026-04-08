@@ -18,7 +18,7 @@ export default function ContactUs() {
 
       <div className="not-prose grid sm:grid-cols-2 gap-4 my-8">
         <a
-          href="mailto:hello@resinartbytanmeet.com"
+          href="mailto:hello@craftmyhand.site"
           className="flex items-start gap-4 p-5 rounded-xl bg-beige/30 border border-border/50 hover:border-gold/30 transition-colors"
         >
           <div className="w-10 h-10 rounded-lg bg-gold/10 flex items-center justify-center shrink-0">
@@ -26,7 +26,7 @@ export default function ContactUs() {
           </div>
           <div>
             <h3 className="font-semibold text-charcoal text-sm mb-1" style={{ fontFamily: "var(--font-display)" }}>Email</h3>
-            <p className="text-sm text-charcoal-light">hello@resinartbytanmeet.com</p>
+            <p className="text-sm text-charcoal-light">hello@craftmyhand.site</p>
           </div>
         </a>
 
@@ -49,7 +49,7 @@ export default function ContactUs() {
           </div>
           <div>
             <h3 className="font-semibold text-charcoal text-sm mb-1" style={{ fontFamily: "var(--font-display)" }}>Location</h3>
-            <p className="text-sm text-charcoal-light">India</p>
+            <p className="text-sm text-charcoal-light">Shop No. 01, Azaadi Rte, 10D, Sector 10, Chandigarh, 160010, India</p>
           </div>
         </div>
 

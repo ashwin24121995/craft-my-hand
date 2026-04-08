@@ -17,14 +17,8 @@ export default function Footer() {
               className="text-2xl font-semibold text-warm-white mb-2"
               style={{ fontFamily: "var(--font-display)" }}
             >
-              Resin Art
+              Craft My Hand
             </h3>
-            <p
-              className="text-gold text-sm tracking-widest uppercase mb-4"
-              style={{ fontFamily: "var(--font-body)" }}
-            >
-              by Tanmeet
-            </p>
             <p className="text-sm leading-relaxed text-warm-white/60 mb-6" style={{ fontFamily: "var(--font-body)" }}>
               Custom handmade resin art, crafted with care and attention to detail. Every piece is made to order based on your unique requirements.
             </p>
@@ -101,11 +95,11 @@ export default function Footer() {
             <ul className="space-y-4" style={{ fontFamily: "var(--font-body)" }}>
               <li>
                 <a
-                  href="mailto:hello@resinartbytanmeet.com"
+                  href="mailto:hello@craftmyhand.site"
                   className="flex items-start gap-3 text-sm text-warm-white/60 hover:text-gold transition-colors duration-300"
                 >
                   <Mail className="w-4 h-4 mt-0.5 text-gold/60 shrink-0" />
-                  hello@resinartbytanmeet.com
+                  hello@craftmyhand.site
                 </a>
               </li>
               <li>
@@ -120,7 +114,7 @@ export default function Footer() {
               <li>
                 <div className="flex items-start gap-3 text-sm text-warm-white/60">
                   <MapPin className="w-4 h-4 mt-0.5 text-gold/60 shrink-0" />
-                  India
+                  Shop No. 01, Azaadi Rte, 10D, Sector 10, Chandigarh, 160010, India
                 </div>
               </li>
             </ul>
@@ -131,10 +125,10 @@ export default function Footer() {
         <div className="mt-14 pt-8 border-t border-warm-white/10">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-xs text-warm-white/40" style={{ fontFamily: "var(--font-body)" }}>
-              &copy; {currentYear} Resin Art by Tanmeet. All rights reserved.
+              &copy; {currentYear} Craft My Hand. All rights reserved.
             </p>
             <p className="text-xs text-warm-white/30" style={{ fontFamily: "var(--font-body)" }}>
-              Handmade with care in India. Each piece is unique and made to order.
+              Handmade with care in Chandigarh, India. Each piece is unique and made to order.
             </p>
           </div>
         </div>

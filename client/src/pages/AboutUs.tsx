@@ -6,14 +6,14 @@ export default function AboutUs() {
   return (
     <PageLayout
       title="About Us"
-      subtitle="The story behind Resin Art by Tanmeet."
+      subtitle="The story behind Craft My Hand."
       lastUpdated="April 9, 2026"
     >
       <div className="not-prose mb-10">
         <div className="aspect-[16/9] rounded-2xl overflow-hidden">
           <img
             src={ARTISAN_IMG}
-            alt="Tanmeet crafting resin art in her studio"
+            alt="Craft My Hand studio — handmade resin art"
             className="w-full h-full object-cover object-top"
           />
         </div>
@@ -21,7 +21,7 @@ export default function AboutUs() {
 
       <h2>Who We Are</h2>
       <p>
-        Resin Art by Tanmeet is a small, independent handmade art business founded and run by Tanmeet.
+        Craft My Hand is a small, independent handmade art business based in Chandigarh, founded and run by Tanmeet.
         We specialize in creating custom resin art pieces — from coasters and serving trays to wall art
         and decorative items — all made by hand based on our clients' specific requirements.
       </p>
@@ -85,8 +85,9 @@ export default function AboutUs() {
         If you would like to discuss a custom resin art piece, we would love to hear from you:
       </p>
       <ul>
-        <li><strong>Email:</strong> hello@resinartbytanmeet.com</li>
+        <li><strong>Email:</strong> hello@craftmyhand.site</li>
         <li><strong>Phone:</strong> +91 98765 43210</li>
+        <li><strong>Address:</strong> Shop No. 01, Azaadi Rte, 10D, Sector 10, Chandigarh, 160010, India</li>
       </ul>
     </PageLayout>
   );

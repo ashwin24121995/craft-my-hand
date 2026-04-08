@@ -10,14 +10,14 @@ export default function Disclaimer() {
       <h2>General Disclaimer</h2>
       <p>
         The information provided on this website is for general informational purposes only. While we
-        make every effort to keep the information accurate and up to date, Resin Art by Tanmeet makes
+        make every effort to keep the information accurate and up to date, Craft My Hand makes
         no representations or warranties of any kind, express or implied, about the completeness,
         accuracy, or reliability of the information on this site.
       </p>
 
       <h2>Handmade Product Variations</h2>
       <p>
-        All products created by Resin Art by Tanmeet are handmade. Due to the nature of handmade
+        All products created by Craft My Hand are handmade. Due to the nature of handmade
         resin art, each piece may have slight variations in:
       </p>
       <ul>
@@ -33,7 +33,7 @@ export default function Disclaimer() {
 
       <h2>Pricing and Timelines</h2>
       <p>
-        All pricing and production timelines provided by Resin Art by Tanmeet are estimates based on
+        All pricing and production timelines provided by Craft My Hand are estimates based on
         the specific requirements discussed with each client. Actual costs and timelines may vary
         depending on design changes, material availability, and other factors. Final pricing is
         confirmed through the quotation process before production begins.
@@ -49,10 +49,10 @@ export default function Disclaimer() {
 
       <h2>No Affiliation</h2>
       <p>
-        Resin Art by Tanmeet is an independent, small handmade art business. We are not affiliated
+        Craft My Hand is an independent, small handmade art business. We are not affiliated
         with, endorsed by, or connected to any other brand, company, franchise, or organization
         unless explicitly stated. All branding, content, and artwork on this website are original
-        and belong to Resin Art by Tanmeet.
+        and belong to Craft My Hand.
       </p>
 
       <h2>External Links</h2>
@@ -64,7 +64,7 @@ export default function Disclaimer() {
 
       <h2>Limitation of Liability</h2>
       <p>
-        Resin Art by Tanmeet shall not be held liable for any loss or damage arising from the use of
+        Craft My Hand shall not be held liable for any loss or damage arising from the use of
         this website or reliance on any information provided herein. Use of this website and our
         services is at your own discretion and risk.
       </p>
@@ -74,8 +74,9 @@ export default function Disclaimer() {
         If you have any questions about this Disclaimer, please contact us:
       </p>
       <ul>
-        <li><strong>Email:</strong> hello@resinartbytanmeet.com</li>
+        <li><strong>Email:</strong> hello@craftmyhand.site</li>
         <li><strong>Phone:</strong> +91 98765 43210</li>
+        <li><strong>Address:</strong> Shop No. 01, Azaadi Rte, 10D, Sector 10, Chandigarh, 160010, India</li>
       </ul>
     </PageLayout>
   );

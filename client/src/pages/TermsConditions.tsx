@@ -9,14 +9,14 @@ export default function TermsConditions() {
     >
       <h2>Agreement to Terms</h2>
       <p>
-        By accessing this website and placing a custom order with Resin Art by Tanmeet, you agree to be
+        By accessing this website and placing a custom order with Craft My Hand, you agree to be
         bound by these Terms & Conditions. If you do not agree with any part of these terms, please do
         not use our website or services.
       </p>
 
       <h2>Nature of Our Business</h2>
       <p>
-        Resin Art by Tanmeet is a custom handmade resin art business. We do not sell ready-made or
+        Craft My Hand is a custom handmade resin art business. We do not sell ready-made or
         mass-produced products. Every piece is created from scratch based on the specific requirements
         provided by the client. The images displayed on this website are examples of past custom work
         and are not available for direct purchase.
@@ -63,7 +63,7 @@ export default function TermsConditions() {
 
       <h2>Limitation of Liability</h2>
       <p>
-        Resin Art by Tanmeet is not liable for any indirect, incidental, or consequential damages
+        Craft My Hand is not liable for any indirect, incidental, or consequential damages
         arising from the use of our website or services. Our total liability for any claim related to
         an order shall not exceed the amount paid for that specific order.
       </p>
@@ -78,7 +78,7 @@ export default function TermsConditions() {
       <h2>Governing Law</h2>
       <p>
         These Terms & Conditions are governed by the laws of India. Any disputes arising from these
-        terms shall be subject to the jurisdiction of the courts in India.
+        terms shall be subject to the jurisdiction of the courts in Chandigarh, India.
       </p>
 
       <h2>Contact Us</h2>
@@ -86,8 +86,9 @@ export default function TermsConditions() {
         If you have questions about these Terms & Conditions, please contact us:
       </p>
       <ul>
-        <li><strong>Email:</strong> hello@resinartbytanmeet.com</li>
+        <li><strong>Email:</strong> hello@craftmyhand.site</li>
         <li><strong>Phone:</strong> +91 98765 43210</li>
+        <li><strong>Address:</strong> Shop No. 01, Azaadi Rte, 10D, Sector 10, Chandigarh, 160010, India</li>
       </ul>
     </PageLayout>
   );
