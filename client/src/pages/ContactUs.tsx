@@ -6,6 +6,7 @@
 import { useEffect } from "react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import { PromoWidget } from "@/components/PromoWidget";
 import AnimatedSection from "@/components/AnimatedSection";
 import {
   Mail,
@@ -31,6 +32,7 @@ export default function ContactUs() {
 
   return (
     <div className="min-h-screen">
+      <PromoWidget />
       <Navbar />
 
       {/* ===== HERO BANNER ===== */}

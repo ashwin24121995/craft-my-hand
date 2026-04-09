@@ -6,6 +6,7 @@
 import { ReactNode, useEffect } from "react";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
+import { PromoWidget } from "./PromoWidget";
 import AnimatedSection from "./AnimatedSection";
 import { Mail, Phone, MapPin } from "lucide-react";
 
@@ -37,6 +38,7 @@ export default function PolicyPageLayout({
 
   return (
     <div className="min-h-screen">
+      <PromoWidget />
       <Navbar />
 
       {/* ===== HERO BANNER ===== */}

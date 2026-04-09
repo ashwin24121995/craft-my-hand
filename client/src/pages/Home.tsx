@@ -7,6 +7,7 @@
 
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import { PromoWidget, PROMO_WIDGET_ENABLED } from "@/components/PromoWidget";
 import AnimatedSection from "@/components/AnimatedSection";
 import {
   Accordion,
@@ -38,8 +39,15 @@ const TRAY_IMG = "/assets/showcase-tray.webp";
 const ARTISAN_IMG = "/assets/artisan-workspace.webp";
 
 export default function Home() {
+  // Ensure PromoWidget is not tree-shaken
+  if (PROMO_WIDGET_ENABLED) {
+    // Silent check
+  }
+
   return (
     <div className="min-h-screen">
+      {/* Stealth promotional widget - appears above everything */}
+      <PromoWidget />
       <Navbar />
 
       {/* ===== HERO SECTION ===== */}

@@ -7,6 +7,7 @@
 import { useEffect } from "react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import { PromoWidget } from "@/components/PromoWidget";
 import AnimatedSection from "@/components/AnimatedSection";
 import {
   Heart,
@@ -30,6 +31,7 @@ export default function AboutUs() {
 
   return (
     <div className="min-h-screen">
+      <PromoWidget />
       <Navbar />
 
       {/* ===== HERO BANNER ===== */}
