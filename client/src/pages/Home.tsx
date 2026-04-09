@@ -31,11 +31,11 @@ import {
 } from "lucide-react";
 
 // Image URLs
-const HERO_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663290463358/iyr7y2KcaUeAxm4yAww8ZX/hero-resin-art-NeMb7SSkTZEUdp5rJFbrxM.webp";
-const COASTERS_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663290463358/iyr7y2KcaUeAxm4yAww8ZX/showcase-coasters-N2XT8y3X44PGfyBH8V46YE.webp";
-const WALL_ART_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663290463358/iyr7y2KcaUeAxm4yAww8ZX/showcase-wall-art-F7QGut9M6x5mtwS82XXKaJ.webp";
-const TRAY_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663290463358/iyr7y2KcaUeAxm4yAww8ZX/showcase-tray-ksFadYHSfK7R8MjKECFpB6.webp";
-const ARTISAN_IMG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663290463358/iyr7y2KcaUeAxm4yAww8ZX/artisan-workspace-PupNhRPXFZsYqZQGtC5k49.webp";
+const HERO_IMG = "/assets/hero-resin-art.webp";
+const COASTERS_IMG = "/assets/showcase-coasters.webp";
+const WALL_ART_IMG = "/assets/showcase-wall-art.webp";
+const TRAY_IMG = "/assets/showcase-tray.webp";
+const ARTISAN_IMG = "/assets/artisan-workspace.webp";
 
 export default function Home() {
   return (
